@@ -9,3 +9,4 @@ Police shootings Dashboard
 •	Police shooting in the US are outrageous let’s analyze some of the data we have present to figure out the whole aspect of the problem.
 •	
 example: 
+https://github.com/juwan2100/police-shootings-Dashboard/blob/main/Screenshot%20police.png
